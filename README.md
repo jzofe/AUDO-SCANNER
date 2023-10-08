@@ -2,7 +2,8 @@
 Very Fast Security testing tool for Arch Linux
  
 For OPEN-SOURCE Version : [DISCORD](https://discord.gg/g4KBRZ5Ghz) OR [WEBSITE](https://endertopluluk.com)
- 
+maybe it can be open source later. idkk
+
 # Content
  
 - Detect traces of more than 15,000 viruses and suspicious connections.
