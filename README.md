@@ -7,7 +7,7 @@ For OPEN-SOURCE Version : [DISCORD](https://discord.gg/g4KBRZ5Ghz)OR [WEBSITE](h
 
 - Detect traces of more than 15,000 viruses and suspicious connections.
 - Identify dangerous ports with detailed scanning.
-- Detect exploits in the network.
+- Detect exploits in the network. And fix.
 - Can check authorizations on the system (Root and $) and extract all journal logs of abnormal activities on the system.
 
 # 💻 IN APP
