@@ -1,8 +1,7 @@
 # AUDO-SCANNER
 Very Fast Security testing tool for Arch Linux
  
-For OPEN-SOURCE Version : [DISCORD](https://discord.gg/g4KBRZ5Ghz) OR [WEBSITE](https://endertopluluk.com)
-
+For OPEN-SOURCE Version :  [WEBSITE](https://endertopluluk.com) (For directly download) OR [DISCORD](https://discord.gg/g4KBRZ5Ghz) OR 
 *it can be open source later. idkk*
 
 # Content
