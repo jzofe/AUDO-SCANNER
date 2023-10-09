@@ -27,14 +27,14 @@ cd AUDO-SCANNER/
 start
  
 ```
-chmod +x audoscanner.sh
-sudo ./audoscanner.sh
+chmod +x audoScanner.sh
+sudo ./audoScanner.sh
 ```
  
 or
  
 ``` 
-sudo bash audoscanner.sh
+sudo bash audoScanner.sh
 ```
  
 ``` 
