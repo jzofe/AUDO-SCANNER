@@ -22,6 +22,7 @@ clone
  
 ``` 
 git clone https://github.com/scriptkidsensei/AUDO-SCANNER
+cd AUDO-SCANNER/
 ```
 start
  
