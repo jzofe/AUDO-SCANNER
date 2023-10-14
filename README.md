@@ -47,8 +47,18 @@ or
 ``` 
 sudo bash audoscanner.sh
 ```
- 
+
+MAIN
+
 ``` 
 #
 [1] Start security test
 [2] Check for AudoScanner updates
+[3] Version & Release
+[4] EnderCommunity website
+[5] Settings
+
+[6] Exit 
+``` 
+
+It took me a lot of effort to make this bash script. Please star this repo :D
