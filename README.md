@@ -15,8 +15,15 @@ For ENGLISH Version : [Audo](https://github.com/scriptkidsensei/AUDO-SCANNER/tre
 - Can check authorizations on the system (Root and $) and extract all journal logs of abnormal activities on the system.
  
 # 💻 IN APP
+
+* MAIN 
  
-![Screenshot_20231008_233608](https://github.com/scriptkidsensei/AUDO-SCANNER/assets/55909183/9b82cba6-d855-4ee9-9aee-5c238d467d61)
+![Screenshot_20231014_155458](https://github.com/scriptkidsensei/AUDO-SCANNER/assets/55909183/db5473d2-8798-48f8-b20d-8990aeabb0cd)
+
+* SETTINGS
+  
+![Screenshot_20231014_155651](https://github.com/scriptkidsensei/AUDO-SCANNER/assets/55909183/a084216f-226f-4257-8bca-0229466ad08f)
+
  
 # Installation
  
