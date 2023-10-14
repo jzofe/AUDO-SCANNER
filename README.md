@@ -41,11 +41,13 @@ sudo bash audoscanner.sh
  
 ``` 
 #
-[1] Güvenlik testini başlat
-[2] AudoScanner güncellemelerini kontrol et
-[3] Versiyon & Sürüm
-[4] EnderTopluluk Web sitesi
-[5] Çık
+[1] Start security test
+[2] Check for AudoScanner updates
+[3] Version & Release
+[4] EnderCommunity website
+[5] Settings
+
+[6] Exit 
 ```
  
 Discord : https://discord.gg/g4KBRZ5Ghz
