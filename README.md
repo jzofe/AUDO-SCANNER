@@ -16,11 +16,11 @@ For ENGLISH Version : [Audo](https://github.com/scriptkidsensei/AUDO-SCANNER/tre
  
 # 💻 IN APP
  
-* MAIN 
+ ### MAIN 
  
 ![Screenshot_20231014_155458](https://github.com/scriptkidsensei/AUDO-SCANNER/assets/55909183/db5473d2-8798-48f8-b20d-8990aeabb0cd)
  
-* SETTINGS
+ ### SETTINGS
  
 ![Screenshot_20231014_155751](https://github.com/scriptkidsensei/AUDO-SCANNER/assets/55909183/b153d8d5-fa01-4376-b6bb-9b6d71ee12f7)
  
