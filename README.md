@@ -36,7 +36,6 @@ cd AUDO-SCANNER/
 start
  
 ```
-
 chmod +x audoscanner.sh
 sudo ./audoscanner.sh
 ```
