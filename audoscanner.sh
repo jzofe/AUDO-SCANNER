@@ -5,7 +5,7 @@
 # BİZİ TERCİH ETTİĞİNİZ İÇİN TEŞEKKÜR EDERİZ!.
 # WEB : [https://endertopluluk.com]
 
-# --CODED BY FYKS--
+# --CODED BY FYKS-- <scriptkidsensei>
 
 script_surum="1.0"
 web_son_surum=$(curl -s https://endertopluluk.com/xsu3rcgh2pb33u26w9upmtadeh2bbxaseyjb8rmzd1shuwdaxqbji4wvev0nyerhg8ouz5r2lzjesej4qnfm9c1vcseyv9yp4skx6ylt8srgq9jf8o76u4k9qj15ulwlp1jwpnpdch5d48qz1zjlcs | grep -oP 'Audo Scanner Version :\s*\K\d+\.\d+')
