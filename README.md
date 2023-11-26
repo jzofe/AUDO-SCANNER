@@ -5,7 +5,7 @@ For OPEN-SOURCE Version : [WEBSITE](https://endertopluluk.com) (For directly dow
  
 For ENGLISH Version : [Audo](https://github.com/scriptkidsensei/AUDO-SCANNER/tree/main/ENG)
  
-*it can be open source later. idkk*
+*it can be open source later. idkk* (now open-source :D)
  
 # Content
  
